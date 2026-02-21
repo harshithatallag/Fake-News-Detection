@@ -153,16 +153,8 @@ These limitations highlight the need for diverse datasets and cautious real-worl
 
 ---
 
-## Why This Project Matters
-
-This project demonstrates:
-
-* Strong understanding of NLP pipelines
-* Awareness of common ML evaluation pitfalls
-* Ability to balance model complexity with reliability
-* Responsible ML practices including explainability and bias analysis
 
 
 
-This README is **portfolio grade**.
-Do not dilute it.
+
+
